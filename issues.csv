@@ -1,0 +1,6 @@
+title,content,kind,priority,component
+Hydrogen,hello 1st!,bug,trivial,documentation
+Helium,hello 2nd!,enhancement,minor,i18n
+Lithium,hello 3rd!,proposal,major,tests
+Beryllium,hello 4th!,task,critical,ui
+Boron,hello 5th!,bug,blocker,
